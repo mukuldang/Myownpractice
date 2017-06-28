@@ -1,0 +1,11 @@
+{
+  "questions": [
+    
+    {
+      "body": "How good is the Batman movie?",
+      "kind": "numeric"
+    }
+
+  ],
+  "title": "Batman"
+}
